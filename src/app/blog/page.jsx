@@ -13,6 +13,9 @@ const Blog = () => {
         <div className={styles.post}>
           <PostCard />
         </div>
+        <div className={styles.post}>
+          <PostCard />
+        </div>
       </div>
     </>
   );
